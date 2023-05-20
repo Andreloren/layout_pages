@@ -23,7 +23,7 @@
 
 <p align="center">
 
-  <img alt="telapaginaAmbiente" src=".github/TelaAcademia.png" width="45%">
+  <img alt="telapaginaAmbiente" src=".github/TelaAmbiente.png" width="45%">
   
 </p>
 
@@ -35,7 +35,7 @@
 
 <p align="center">
 
-  <img alt="telapaginaInformatica" src=".github/TelaAcademia.png" width="45%">
+  <img alt="telapaginaInformatica" src=".github/TelaInformatica.png" width="45%">
   
 </p>
 
@@ -47,7 +47,7 @@
 
 <p align="center">
 
-  <img alt="telapaginaViagem" src=".github/TelaAcademia.png" width="45%">
+  <img alt="telapaginaViagem" src=".github/TelaViagem.png" width="45%">
   
 </p>
 
