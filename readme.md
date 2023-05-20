@@ -7,8 +7,10 @@
 
 <br>
 
+<p align="center">Academia</p>
+
 <p align="center">
-Academia
+
   <img alt="telapaginaAcademia" src=".github/TelaAcademia.png" width="45%">
   
 </p>
@@ -21,13 +23,9 @@ Ambiente
   
 </p>
 
-<br>
-
 <p align="center">
   
 </p>
-
-<br>
 
 <p align="center">
 Informática
@@ -37,8 +35,6 @@ Informática
 <p align="center">
   
 </p>
-
-<br>
 
 <p align="center">
 Viagem
