@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="telapagina" src=".github/TelaPagina.png" width="45%">
+  <img alt="telapaginaAcademia" src=".github/TelaAcademia.png" width="45%">
   
 </p>
 <p align="center">
