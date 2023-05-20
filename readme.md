@@ -8,7 +8,41 @@
 <br>
 
 <p align="center">
+Academia
   <img alt="telapaginaAcademia" src=".github/TelaAcademia.png" width="45%">
+  
+</p>
+<p align="center">
+  
+</p>
+<p align="center">
+Ambiente
+  <img alt="telapaginaAmbiente" src=".github/TelaAcademia.png" width="45%">
+  
+</p>
+
+<br>
+
+<p align="center">
+  
+</p>
+
+<br>
+
+<p align="center">
+Informática
+  <img alt="telapaginaInformatica" src=".github/TelaAcademia.png" width="45%">
+  
+</p>
+<p align="center">
+  
+</p>
+
+<br>
+
+<p align="center">
+Viagem
+  <img alt="telapaginaViagem" src=".github/TelaAcademia.png" width="45%">
   
 </p>
 <p align="center">
